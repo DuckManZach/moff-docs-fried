@@ -48,4 +48,4 @@ A faction may be accepted while lacking some of the above, provided there is rea
 
 Antags should rarely be "a guy who is evil"; they should be associated with a faction of some form wherever possible. Their objectives, equipment, and so on should be associated with that faction as well. By tying antags closely to a specific faction, you give clearer prompting for how they should act and what motivates them, beyond just what their objectives entail.
 
-The line between antag and non-antag should be blurred, leading to situations where there is uncertainty and room for intrigue. This can produce varied and exciting outcomes, and it slows down many of the potential knee-jerk reactions that can happen between crew and outsiders.
+The relationship between factions shouldn't purely be antag versus non-antag, there should be room for ambiguity and middle ground, leading to situations where there is uncertainty and room for intrigue. This can produce varied and exciting outcomes, and it slows down many of the potential knee-jerk reactions that can happen between crew and outsiders.
